@@ -1,0 +1,19 @@
+*{
+    background-origin: padding-box;
+    border-radius: 20px;
+    border-color: rgb(85, 182, 234);
+    color: brown(63,17,201);
+    background-color: lightgrey;
+}
+#b1:hover{
+   color: rgb(85, 182, 234);
+}
+#p1{
+    text-align: center;
+}
+#p2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
